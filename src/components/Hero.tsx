@@ -19,7 +19,7 @@ export default function Hero() {
                 </span>
                 <h1 className="text-white text-5xl md:text-7xl font-display font-light leading-[1.1] tracking-tight mb-6">
                     Sastrería a Medida con <br />
-                    <span className="italic font-normal text-gray-200">Estilo Británico</span>
+                    <span className="italic font-normal text-gray-200">Estilo Moderno</span>
                 </h1>
                 <p className="text-gray-300 text-lg md:text-xl font-light leading-relaxed max-w-2xl mx-auto mb-10">
                     Confección de ternos, alquiler de togas y cuidado textil experto en Quito. Elevamos su imagen personal.
