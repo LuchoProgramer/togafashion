@@ -14,12 +14,15 @@ export default function Hero() {
                 </div>
             </div>
             <div className="relative z-20 layout-content-container flex flex-col max-w-[960px] px-6 text-center animate-fade-in-up">
-                <h2 className="text-primary text-sm md:text-base font-bold tracking-[0.2em] uppercase mb-4">Sastrería • Dry Clean • Coffee</h2>
+                <span className="text-primary text-sm md:text-base font-bold tracking-[0.2em] uppercase mb-4 block">
+                    Sastrería • Dry Clean • Coffee
+                </span>
                 <h1 className="text-white text-5xl md:text-7xl font-display font-light leading-[1.1] tracking-tight mb-6">
-                    La Excelencia del <br /> <span className="italic font-normal text-gray-200">Estilo Británico</span>
+                    Sastrería a Medida con <br />
+                    <span className="italic font-normal text-gray-200">Estilo Británico</span>
                 </h1>
                 <p className="text-gray-300 text-lg md:text-xl font-light leading-relaxed max-w-2xl mx-auto mb-10">
-                    Donde la tradición de la sastrería a medida se encuentra con el cuidado experto de sus prendas y el aroma del mejor café de especialidad.
+                    Confección de ternos, alquiler de togas y cuidado textil experto en Quito. Elevamos su imagen personal.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center w-full">
                     <button className="flex w-full sm:w-auto min-w-[200px] h-14 items-center justify-center rounded-none bg-primary hover:bg-[#c98b0f] transition-all text-background-dark text-base font-bold tracking-wide uppercase">
