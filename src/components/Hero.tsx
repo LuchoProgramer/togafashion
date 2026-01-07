@@ -22,7 +22,7 @@ export default function Hero() {
                     <span className="italic font-normal text-gray-200">Estilo Moderno</span>
                 </h1>
                 <p className="text-gray-300 text-lg md:text-xl font-light leading-relaxed max-w-2xl mx-auto mb-10">
-                    Confección de ternos, alquiler de togas y cuidado textil experto en Quito. Elevamos su imagen personal.
+                    Confección de ternos y cuidado textil experto en Quito. Elevamos su imagen personal.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center w-full">
                     <button className="flex w-full sm:w-auto min-w-[200px] h-14 items-center justify-center rounded-none bg-primary hover:bg-[#c98b0f] transition-all text-background-dark text-base font-bold tracking-wide uppercase">
